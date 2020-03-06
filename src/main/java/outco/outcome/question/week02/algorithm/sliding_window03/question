@@ -1,28 +1,15 @@
-https://leetcode.com/problems/target-sum/
+https://leetcode.com/problems/minimum-window-substring/
 
 -----------------------
 ** Problem Statement **
 -----------------------
 
-You are given a list of non-negative integers and the target sum S. For each given integer, you can either choose + and - as its new symbol.
-
-Find out how many ways to assign symbols to make the sum of integers equal to target sum.
-
+Given a string S and a string T, find the minimum window in S which will contain all the characters in T in complexity O(n).
 
 
 -----------------------
 ** Examples          **
 -----------------------
 Example 1:
-    Input:
-          nums is [1, 1, 1, 1, 1]
-          target sum is 3
-    Output: 5
-    Explanation: There are 5 ways to assign symbols to make the sum of nums be target 3.
-
-                -1+1+1+1+1 = 3
-                +1-1+1+1+1 = 3
-                +1+1-1+1+1 = 3
-                +1+1+1-1+1 = 3
-                +1+1+1+1-1 = 3
-
+    Input: S = "ADOBECODEBANC", T = "ABC"
+    Output: "BANC"
