@@ -120,6 +120,12 @@ fabric.properties
 src/main/java/test
 src/test/java/test
 
-
+.mvn
+mvnw
+mvnw.cmd
+pom.xml
+OutcomeApplication.java
+OutcomeApplicationTests.java
+/target
 
 # End of https://www.gitignore.io/api/intellij
