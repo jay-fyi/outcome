@@ -1,0 +1,14 @@
+-----------------------
+** Problem Statement **
+-----------------------
+
+Design a web service like TinyURL which is a URL shortening service that provides short aliases for redirection of long URLs.
+
+If you do not know what tinyurl.com is, you should try to create a shortened URL there.
+
+-----------------------
+** Examples          **
+-----------------------
+Example 1:
+    Input: https://www.geeksforgeeks.org/how-to-design-a-tiny-url-or-url-shortener/
+    Output: https://shorturl.com/h36HrW35d

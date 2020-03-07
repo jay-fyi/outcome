@@ -1,16 +1,9 @@
-https://www.geeksforgeeks.org/how-to-design-a-tiny-url-or-url-shortener/
-
 -----------------------
 ** Problem Statement **
 -----------------------
 
-Design a web service like TinyURL which is a URL shortening service that provides short aliases for redirection of long URLs.
+Instagram is a photo and video sharing app. People can upload photos or videos to the service and share them with their followers or with a select group of friends.
+They can also view, comment and like posts shared by their friends on Instagram.
 
-If you do not know what tinyurl.com is, you should try to create a shortened URL there.
+If you do not know what Instagram is, you should try to create an account and upload some photos there.
 
------------------------
-** Examples          **
------------------------
-Example 1:
-    Input: https://www.geeksforgeeks.org/how-to-design-a-tiny-url-or-url-shortener/
-    Output: https://shorturl.com/h36HrW35d
